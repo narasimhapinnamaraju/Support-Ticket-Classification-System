@@ -1,0 +1,13 @@
+Ticket Text,Category,Priority
+"My payment was deducted twice.",Billing,High
+"I can't log into my account. The password reset isn't working.",Account,High
+"The app keeps crashing when I open the settings menu.",Technical,Medium
+"How do I change my subscription plan?",General,Low
+"I was incorrectly charged for an annual plan instead of monthly.",Billing,High
+"The video streaming is very slow and buffering constantly.",Technical,Medium
+"I would like to update my email address.",Account,Low
+"Is there a student discount available?",General,Low
+"I keep getting an 'Error 500' on the checkout page.",Technical,High
+"Where can I find the user manual?",General,Low
+"The system logged me out and my two-factor auth is failing.",Account,High
+"I need a refund for the last billing cycle.",Billing,Medium

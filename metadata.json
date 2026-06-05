@@ -1,0 +1,6 @@
+{
+  "name": "ML Ticket Classifier",
+  "description": "Support Ticket Classification & Prioritization using Machine Learning and NLP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
